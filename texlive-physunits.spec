@@ -1,6 +1,6 @@
 Name:		texlive-physunits
 Version:	58728
-Release:	1
+Release:	2
 Summary:	Macros for commonly used physical units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/physunits
